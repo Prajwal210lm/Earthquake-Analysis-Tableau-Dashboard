@@ -1,9 +1,9 @@
-# Global Earthquake Analysis Dashboard (1900–2013)
+# Global Earthquake Analysis Dashboard (1900–2014)
 
 <img width="1831" height="1026" alt="image" src="https://github.com/user-attachments/assets/589cef8e-14fd-41df-b1fb-e1dddbaa9994" />
 
 ## Overview
-This project presents an **interactive Tableau dashboard** analyzing global earthquakes with a magnitude of **6.0 and above** recorded between **1900 and 2013**.  
+This project presents an **interactive Tableau dashboard** analyzing global earthquakes with a magnitude of **6.0 and above** recorded between **1900 and 2014**.  
 
 The dashboard enables users to explore earthquake activity across **time, geography, depth, magnitude, and seismic measurement types**, using dynamic filters and KPIs to uncover meaningful patterns and trends.
 
@@ -18,7 +18,7 @@ The project covers the **entire analytics workflow**:
 
 ## Dataset
 - **Source:** USGS earthquake records (Magnitude ≥ 6)
-- **Time period:** 1900 – 2013
+- **Time period:** 1900 – 2014
 - **Rows:** 8,000+ earthquake events
 - **Key fields:**
   - Date / Time
