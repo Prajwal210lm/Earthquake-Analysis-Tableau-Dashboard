@@ -1,5 +1,3 @@
-# Earthquake-Analysis-Tableau-Dashboard
-
 # Global Earthquake Analysis Dashboard (1900–2013)
 
 <img width="1831" height="1026" alt="image" src="https://github.com/user-attachments/assets/589cef8e-14fd-41df-b1fb-e1dddbaa9994" />
